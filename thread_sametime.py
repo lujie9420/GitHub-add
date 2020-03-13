@@ -82,6 +82,8 @@ import requests
 def fb():
     print('hello')
 
+def fc():
+    print('close work')
 
 
 
