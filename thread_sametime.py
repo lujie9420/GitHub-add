@@ -85,7 +85,8 @@ def fb():
 def fc():
     print('close work')
 
-
+def home():
+    pass
 
 
 
