@@ -88,7 +88,8 @@ def fc():
 def home():
     pass
 
-
+def company():
+    pass
 
 
 
